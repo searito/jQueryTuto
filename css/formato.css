@@ -1,0 +1,126 @@
+/**		https://www.materialpalette.com/indigo/blue-grey		**/
+
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
+
+.fuenteTuneada{	font-family: 'Poiret One', cursive;}
+
+.colorAcentuado{ background-color: #607D8B;}
+
+.colorPrincipal{ color: #303F9F; }
+
+.titulos{ font-size: 40px;}
+
+#fondoPag{ height: 100%;}
+
+.espacioBajo{ margin-bottom: 5%; }
+
+.fondoClaro{ background-color: #C5CAE9; }
+
+.textoPrincipal{ color: #212121; }
+
+.textoSecundario { color: #757575; }
+
+.margenSuperior5{ margin-top: 5%; }
+
+.margenesInternos{ padding: 5% 5% 5% 5%; }
+
+#parrafo1{
+	background-color: #303F9F;
+	padding: 4% 5% 4% 5%;
+	text-align: center;
+	border-radius: 12px;
+	color: #fff;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#parrafo2{
+	background-color: #3F51B5;
+	padding: 4% 5% 4% 5%;
+	text-align: center;
+	border-radius: 12px;
+	color: #fff;
+	font-family: 'Poppins', sans-serif;
+}
+
+#parrafo3{
+	background-color: #757575;
+	padding: 4% 5% 4% 5%;
+	text-align: center;
+	border-radius: 12px;
+	color: #fff;
+	font-family: 'Satisfy', cursive;
+}
+
+#parrafo4{
+	background-color: #607D8B;
+	padding: 4% 5% 4% 5%;
+	text-align: center;
+	border-radius: 12px;
+	color: #fff;
+	font-family: 'Berkshire Swash', cursive;
+}
+
+.miClase1{
+	font-family: 'Ubuntu', sans-serif;
+	color: #3F51B5;
+	font-weight: bold;
+	letter-spacing: 1px;
+	text-shadow: 2px 2px #757575;
+	text-align: center;
+	font-size: 1.8em;
+}
+
+.miClase2{
+	font-family: 'Satisfy', cursive;
+	color: #3F51B5;
+	font-weight: bold;
+	letter-spacing: 1px;
+	text-shadow: 2px 2px #757575;
+	text-align: center;
+	font-size: 1.8em;
+}
+
+.miClase3{
+	font-family: 'Berkshire Swash', cursive;
+	color: #3F51B5;
+	font-weight: bold;
+	letter-spacing: 1px;
+	text-shadow: 2px 2px #757575;
+	text-align: center;
+	font-size: 1.8em;
+}
+
+
+.hoverClass{
+	display: inline;
+	height: 300px;
+	width: 300px;
+	padding: 10px 10px;
+	font-family: 'Ubuntu', sans-serif;
+	background-color: #607D8B;
+	color: #607D8B;
+	font-size: 50px;
+}
+
+
+#boxy{
+	width: 100%;
+	height: 300px;
+	border: 2px solid #000;
+	display: none;
+	border-radius: 5px;
+	background-color: #607D8B;
+	opacity: 0.6;
+}
+
+
+#caja_scroll{
+	width: 100%;
+	height: 350px;
+	overflow: auto;
+	font-family: 'Ubuntu', sans-serif;
+}

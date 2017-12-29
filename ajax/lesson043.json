@@ -1,0 +1,17 @@
+{
+	"alumnos":{
+		"colegio" : "San Rafael",
+		"ciudad" : "Sevilla",
+		"clase1" : [
+			["Rodolfo", "5"],
+			["Radamel", "8"],
+			["Fernando", "7"]
+		],
+
+		"clase2" : [
+			["Rosa", "9"],
+			["Maria", "8"],
+			["Manuel", "6"]
+		]
+	}
+}
